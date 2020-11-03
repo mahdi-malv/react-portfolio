@@ -24,18 +24,22 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
-      with:
-        node-version: ${{ matrix.node-version }}
+        with:
+          node-version: ${{ matrix.node-version }}
 
       - name: Build app
         run: |
+          echo * Npm install *
+          npm i
           echo *** Building app ***
-          npm run build
+          CI=''; npm run build
       - name: Initial branch
         run: |
-          mv .git ../ && mv build ../
+          mv build/ ../
           rm -rf *
-          mv ../.git . && mv ../* .
+          rm -rf .github
+          mv ../build/* .
+          git init
       - name: Create cname for malv.ir
         run: echo 'malv.ir' > CNAME
       - name: Github
