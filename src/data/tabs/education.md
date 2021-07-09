@@ -1,10 +1,5 @@
 ### My \[academic\] background
 
-- [Software Engineering](/swe)
-
-  - Apprenticeship Program
-  - 2020-...
-
 - [**Software engineering**](https://bote.kku.edu.tr/)
 
   - Semnan University
