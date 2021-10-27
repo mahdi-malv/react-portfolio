@@ -1,7 +1,29 @@
 ### Where I've worked
 
-⚙️ **Lead Android SDK developer** @ [Pushe](https://push-pole.com)
-> Mar 2020 – Nov 2020
+⚙️ **Android SDK developer** @ [Tapsell](https://tapsell.ir)
+> Jan 2021 - Present
+
+- Develop and maintain current SDK
+    - Android native SDK written in Java
+     - Flutter open source plugin ([Github](https://github.com/tapsellorg/TapsellPlusSDK-FlutterPlugin))
+     - React native open source plugin ([Github](https://github.com/tapsellorg/TapsellSDK-ReactNativePlugin))
+     - Unity engine open source pluging ([Github](https://github.com/orgs/tapsellorg/repositories?q=unity&type=&language=&sort=))
+     - B4A open source plugin ([Github](https://github.com/tapsellorg/TapsellPlusSDK-B4APlugin))
+
+- Develop new redesigned SDK with latest tools
+    - Android native SDK
+        - **Kotlin lang**
+        - Use Mockk for unit-testing
+        - Use Gitlab CI/CD with dockerized custom container
+        - Use Dokka for exposed javaDoc
+        - Modern libraries such as Moshi, Kotlin coroutines and so on.
+    - Develop **Flutter** (dart), **React native** (js), **Unity** (C#) and B4A (vb) plugins
+- Technical support of current SDK ([Github](https://github.com/orgs/tapsellorg/repositories?q=tapsellplus&type=&language=&sort=))
+
+
+
+⚙️ **Lead Android SDK developer** @ [Pushe](https://pushe.co)
+> Mar 2020 – Dec 2020
 
 - Develop Pushe plus Mobile SDK for Android using
 Kotlin
@@ -16,8 +38,14 @@ SDK
 
 
 
+⚙️ **Android SDK developer** @ [PushPole](https://push-pole.com)
+> Dec 2019 – Mar 2020
+
+- Transfer pushe advertising SDK to Push-Pole
+- Maintain and teach members of Push-Pole
+
 ⚙️ **Android SDK developer** @ [Pushe](https://pushe.co)
-> Jan 2019 – Mar 2020
+> Jan 2019 – Dec 2019
 
 - Develop **Pushe** Mobile SDK for Android using Java
 -  Develop Plugin of Android SDK for Flutter framework
