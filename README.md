@@ -8,3 +8,6 @@
 npm i
 npm start
 ```
+
+## Modify
+Modify json files in `src/data/json` to modify the site content

@@ -6,12 +6,6 @@
     "isMain": true
   },
   {
-    "name": "Telegram",
-    "url": "https://t.me/malv_ir",
-    "icon": ["fab", "telegram-plane"],
-    "isMain": false
-  },
-  {
     "name": "GitHub",
     "url": "https://github.com/mahdi-malv",
     "icon": ["fab", "github"],
@@ -27,12 +21,6 @@
     "name": "StackOverflow",
     "url": "https://stackoverflow.com/users/6678991/mahdi-malv",
     "icon": ["fab", "stack-overflow"],
-    "isMain": false
-  },
-  {
-    "name": "Instagram",
-    "url": "https://www.instagram.com/mahdi_malvandi/",
-    "icon": ["fab", "instagram"],
     "isMain": false
   },
   {
