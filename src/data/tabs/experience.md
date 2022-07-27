@@ -1,7 +1,14 @@
 ### Where I've worked
 
+⚙️ **Android developer** @ [Eve world platform](https://www.linkedin.com/company/cotobyeveworld/mycompany/)
+> May 2022 - Present
+
+- Develop and maintain android application
+  - Language: Kotlin
+  - Ui Kit: Compose
+
 ⚙️ **Android SDK developer** @ [Tapsell](https://tapsell.ir)
-> Jan 2021 - Present
+> Jan 2021 - May 2022 (Still working part-time)
 
 - Develop and maintain current SDK
     - Android native SDK written in Java
@@ -22,7 +29,7 @@
 
 
 
-⚙️ **Lead Android SDK developer** @ [Pushe](https://pushe.co)
+⚙️ **Android SDK developer** @ [Pushe](https://pushe.co)
 > Mar 2020 – Dec 2020
 
 - Develop Pushe plus Mobile SDK for Android using
@@ -45,7 +52,8 @@ SDK
 - Maintain and teach members of Push-Pole
 
 ⚙️ **Android SDK developer** @ [Pushe](https://pushe.co)
-> Jan 2019 – Dec 2019
+> Jan 2019 – Dec 2019  
+> Note: I'm still helping them with maintenance
 
 - Develop **Pushe** Mobile SDK for Android using Java
 -  Develop Plugin of Android SDK for Flutter framework
