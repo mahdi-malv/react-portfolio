@@ -3,7 +3,7 @@
   - Native Android SDKs
   - Porting SDKs to non-native frameworks such as **Flutter**, **ReactNative**, **Unity engine**, ...
 - Android application development
-  - Modern tools of Android native such as Jetpack, ...
+  - Modern tools of Android native such as Jetpack Compose, etc.
 
 - Flutter framework
 
@@ -20,14 +20,6 @@
   - Github actions
   - Travis
   - Circle CI
-
-
-### Familiar with
-- Docker (Used in CI/CD)
-- Nginx (Used in making debug servers)
-
-### Plans and new tech interests
-- Swift and iOS
 
 
 

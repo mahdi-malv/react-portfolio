@@ -1,7 +1,7 @@
 ### Where I've worked
 
 ⚙️ **Android developer** @ [Eve world platform](https://www.linkedin.com/company/cotobyeveworld/mycompany/)
-> May 2022 - Present
+> May 2022 - Feb 2023
 
 - Develop and maintain android application
   - Language: Kotlin
