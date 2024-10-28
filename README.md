@@ -1,6 +1,6 @@
 # React portfolio
 
-> View on [malv.ir](https://malv.ir)
+> View on [mahdi-malv.com](https://mahdi-malv.com)
 
 ## Usage
 
@@ -10,4 +10,4 @@ npm start
 ```
 
 ## Modify
-Modify json files in `src/data/json` to modify the site content
+Modify json files in `src/data/tabs` to modify the site content

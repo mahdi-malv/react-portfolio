@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/mahdi-malv/react-portfolio"
   },
-  "homepage": "https://malv.ir",
+  "homepage": "https://mahdi-malv.com",
   "license": "GNU GPLv3",
   "scripts": {
     "start": "react-scripts start",

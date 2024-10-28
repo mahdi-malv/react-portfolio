@@ -1,7 +1,19 @@
 ### Where I've worked
 
+⚙️ **Android developer** @ [Framna](https://framna.com)
+> Sep 2023 - Present
+> Copenhagen, Denmark (On-site)
+
+- Develop and maintain Android applications
+- Compose, MVVM, Jetpack
+- Kotlin Coroutines
+- Github Actions
+- Detekt
+
+
 ⚙️ **Android developer** @ [Eve world platform](https://www.linkedin.com/company/cotobyeveworld/mycompany/)
 > May 2022 - Feb 2023
+> Singapour (Remote)
 
 - Develop and maintain android application
   - Language: Kotlin
@@ -52,7 +64,7 @@ SDK
 - Maintain and teach members of Push-Pole
 
 ⚙️ **Android SDK developer** @ [Pushe](https://pushe.co)
-> Jan 2019 – Dec 2019  
+> Jan 2019 – Dec 2019
 > Note: I'm still helping them with maintenance
 
 - Develop **Pushe** Mobile SDK for Android using Java

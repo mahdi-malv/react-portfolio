@@ -3,12 +3,12 @@
 exports[`<ButtonLink /> should render correctly 1`] = `
 <DocumentFragment>
   <a
-    aria-label="malv.ir"
+    aria-label="mahdi-malv.com"
     class="root-0-2-1"
-    href="https://malv.ir"
+    href="https://mahdi-malv.com"
     rel="noopener noreferrer"
     target="_blank"
-    title="malv.ir"
+    title="mahdi-malv.com"
   >
     <span
       class="contents-0-2-2"
@@ -31,7 +31,7 @@ exports[`<ButtonLink /> should render correctly 1`] = `
       <span
         class="text-0-2-3"
       >
-        malv.ir
+        mahdi-malv.com
       </span>
     </span>
   </a>

@@ -1,4 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
-Sitemap: https://malv.ir/sitemap.xml
+Sitemap: https://mahdi-malv.com/sitemap.xml

@@ -6,9 +6,9 @@ name: Deploy
 # events but only for the master branch
 on:
   push:
-    branches: [ master ]
+    branches: [master]
   pull_request:
-    branches: [ master ]
+    branches: [master]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -40,8 +40,8 @@ jobs:
           rm -rf .github
           mv ../build/* .
           git init
-      - name: Create cname for malv.ir
-        run: echo 'malv.ir' > CNAME
+      - name: Create cname for mahdi-malv.com
+        run: echo 'mahdi-malv.com' > CNAME
       - name: Github
         run: |
           git config --local user.email "mmalvandi75@gmail.com"
@@ -53,4 +53,3 @@ jobs:
           github_token: ${{secrets.GH_TOKEN}}
           force: true
           branch: gh-pages
-    
